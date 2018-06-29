@@ -5,7 +5,7 @@
 This is a software product of the Herschel Extragalactic Legacy Project ([HELP](http://www.herschel.sussex.ac.uk)).
 
 
-As part of HELP, a script for constructing and constraining extended halo models in extragalactic surveys has been delivered with a demo set of data and extensive guidance for using the script. The script and demonstration data can be found in the HELP Github repository [https://github.com/H-E-L-P/HALO] ( (https://github.com/H-E-L-P/HALO). The analysis is based on that presented in [Hatfield et al., (2016)](http://adsabs.harvard.edu/abs/2016MNRAS.459.2618H), and the data used in the demo is from the VIDEO survey [(Jarvis et al., 2013)](http://adsabs.harvard.edu/abs/2013MNRAS.428.1281J), a data set included in HELP [DMU VIDEO VISTA](https://github.com/H-E-L-P/dmu_products/tree/master/dmu0/dmu0_VISTA-VIDEO).
+As part of HELP, a script for constructing and constraining extended halo models in extragalactic surveys has been delivered with a demo set of data and extensive guidance for using the script. The script and demonstration data can be found in the HELP Github repository [HALO](https://github.com/H-E-L-P/HALO). The analysis is based on that presented in [Hatfield et al. (2016)](http://adsabs.harvard.edu/abs/2016MNRAS.459.2618H), and the data used in the demo is from the VIDEO survey [(Jarvis et al. 2013)](http://adsabs.harvard.edu/abs/2013MNRAS.428.1281J), a data set included in HELP [DMU VIDEO VISTA](https://github.com/H-E-L-P/dmu_products/tree/master/dmu0/dmu0_VISTA-VIDEO).
 The script is written in python 2.7, and the only non-standard module required is *Halomod* (Murray, Power, Robotham, in prep.), which can be installed using pip from github (although alternative clustering codes could be used instead with relative ease).
 
 ## Science Applications
@@ -35,7 +35,7 @@ The script will output:
 
 -------------------------------------------------------------------------------
 
-**Authors**:  [Seb Oliver](https://www2.physics.ox.ac.uk/contacts/people/hatfield)
+**Authors**:  [Peter Hatfield](https://www2.physics.ox.ac.uk/contacts/people/hatfield)
 
  ![HELP LOGO](https://avatars1.githubusercontent.com/u/7880370?s=75&v=4)
  
